@@ -1,0 +1,28 @@
+.calculator {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 35%;
+    height: 90%;
+    background: #70a9d8d5;
+}
+input[type="text"]{
+    background:white;
+    color:grey;
+    font-size: 80px;
+    width: 80%;
+    margin:50px 10% 0 10%;
+    height: 100px;
+    text-align: right;
+}
+.btn{
+    box-sizing: content-box;
+    margin:40px 0 0 40px;
+    height:100px;
+    width:100px;
+    background:#8ec1ebd5;
+    color:white;
+    font-size: 50px;
+}
+.long{
+    height:200px;
+}

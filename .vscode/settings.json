@@ -1,0 +1,12 @@
+{
+    "css.fileExtensions": [ "css", "scss"],
+    "editor.fontSize": 17,
+    "editor.tabSize": 4,
+    "files.autoSave": "afterDelay",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "files.associations": {
+       "*.js": "javascriptreact"
+    }
+}
